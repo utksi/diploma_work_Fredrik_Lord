@@ -1,0 +1,14 @@
+K-Label    Coordinate of high-symmetry k-point in band-structure plots 
+       GAMMA       0.000
+           X       0.610
+           P       0.918
+           N       1.349
+       GAMMA       1.879
+           M       2.495
+       S|S_0       2.707
+     GAMMA|X       3.357
+         R|G       3.668
+           M       3.968
+ 
+ 
+* Tip: Please label each high symmetry point in KPOINTS (KPATH.in) file. Otherwise, they will be identified as 'XX' in KLABELS file
