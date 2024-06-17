@@ -7,7 +7,7 @@ This study explores the possible improvement of the optoelectronic properties of
 
 Several promising combinations were identified, predominantly with A = Cs and X = Cl. It was observed that rare-earth elements generally resulted in larger bandgaps, while elements from the 3d row of the periodic table exhibited smaller bandgaps.
 
-# Database:
+# Database
 This repository contains the results of this study in fulfillment of Fredrik Lord's Master's Thesis (30hp) in Applied Physics (LITH-IFM-A-EX--24/4384--SE).
 
 Examiner: Sergei Simak
