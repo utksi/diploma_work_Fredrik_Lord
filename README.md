@@ -1,5 +1,5 @@
 # Optoelectronic Properties of Rare-Earth Based Halide Double Perovskites
-## - a High Throughput Study
+## - A High Throughput Study
 
 ### Abstract
 
